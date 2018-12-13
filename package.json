@@ -1,0 +1,12 @@
+{
+    "name": "@august/qtbot",
+    "description": "Another Discord economy-based bot but with customizable settings!",
+    "version": "0.0.1",
+    "author": "auguwu",
+    "dependencies": {
+        "eris": "0.9.0",
+        "rethinkdbdash": "2.3.31",
+        "winston": "3.1.0"
+    },
+    "license": "MIT"
+}
